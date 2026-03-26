@@ -1,2 +1,1 @@
-# demo
-project code
+a = int (input("enter you number"))
